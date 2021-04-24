@@ -1,5 +1,1 @@
-
-## Links
-- LinkedIn: https://www.linkedin.com/in/gordavtyan/
-- Instagram: http://instagram.com/gordavtyan__/
-- GitHub: https://github.com/gor918
+![Metrics](https://metrics.lecoq.io/Gor918?template=classic&config.timezone=Asia%2FYerevan)
